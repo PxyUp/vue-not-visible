@@ -2,6 +2,10 @@
 
 Vue directive for removing from dom (like v-if) element on screen smaller then breakpoints;
 
+[![NPM](https://nodei.co/npm/vue-not-visible.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-not-visible/)
+
+# Install
+
 ## Install
 
 ```bash
@@ -29,7 +33,6 @@ import vueNotVisible from 'vue-not-visible'
 }
 */
 Vue.use(vueNotVisible) // this is default
-Vue.use(vueNotVisible, {ipad: 1280}) // this is custom
 
 ```
 
