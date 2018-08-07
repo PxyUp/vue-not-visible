@@ -1,0 +1,24 @@
+{
+  "name": "vue-not-visible",
+  "version": "1.0.0",
+  "description": "Vue directive for removing from dom (like v-if) element on screen smaller then breakpoints;",
+  "main": "/src/index.js",
+  "repository": "git@github.com:PxyUp/vue-not-visible.git",
+  "author": "Yura Panarin <tduble94@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "precommit": "yarn build && git add --all"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "git-pre-commit": "^2.1.4",
+    "vue": "^2.5.17",
+    "webpack": "^4.16.5",
+    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
