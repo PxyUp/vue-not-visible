@@ -1,6 +1,6 @@
 {
   "name": "vue-not-visible",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue directive for removing from dom (like v-if) element on screen smaller then breakpoints;",
   "main": "/src/index.js",
   "repository": "git@github.com:PxyUp/vue-not-visible.git",
