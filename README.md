@@ -4,8 +4,6 @@ Vue directive for removing from dom (like v-if) element on screen smaller then b
 
 [![NPM](https://nodei.co/npm/vue-not-visible.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-not-visible/)
 
-# Install
-
 ## Install
 
 ```bash
