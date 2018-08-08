@@ -10,6 +10,17 @@
     "build": "webpack",
     "precommit": "yarn build && git add --all"
   },
+  "keywords": [
+    "Vuejs",
+    "Vue",
+    "vue2",
+    "breakpoints",
+    "responsive",
+    "screen",
+    "mobile",
+    "helpers",
+    "ui"
+  ],
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
     "git-pre-commit": "^2.1.4",
