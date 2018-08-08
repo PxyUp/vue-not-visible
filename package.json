@@ -1,6 +1,6 @@
 {
   "name": "vue-not-visible",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Vue directive for conditional rendering (like v-if) element on screen smaller than breakpoints;",
   "main": "dist/vue-not-visible.js",
   "repository": "git@github.com:PxyUp/vue-not-visible.git",
