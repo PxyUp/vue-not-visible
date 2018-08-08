@@ -1,6 +1,6 @@
 # vue-not-visible
 
-Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints;
+Vue directive for conditional rendering (like v-if) element on screen smaller than breakpoints;
 
 [![NPM](https://nodei.co/npm/vue-not-visible.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vue-not-visible/)
 
